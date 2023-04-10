@@ -158,7 +158,8 @@ input {
 
 .main {
     margin: 0 7%;
-    height: auto;
+    min-height: 100%;
+    margin-bottom: auto;
 }
 
 .main > h2 {
